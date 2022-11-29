@@ -20,7 +20,7 @@ author: hydrailab
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Resources:
     - Nautilus: "https://github.com/hydr-ai-lab/nautilus"
 
