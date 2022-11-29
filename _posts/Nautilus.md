@@ -7,5 +7,4 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-
-Nautilus: a hydrostatics analysis tool for vessels.
+<a href="https://github.com/hydr-ai-lab/nautilus" target="_blank">Nautilus</a>: a hydrostatics analysis tool for vessels.
