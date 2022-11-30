@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About hydr-ai-lab
+title: About MAI-L@b
 subtitle: Marine Artificial Intelligence Laboratory 
 ---
 
