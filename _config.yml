@@ -47,7 +47,7 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hydro.ai.laboratory@gmail.com"
+  email: "mai-lab@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: mai-lab-tud
 #  medium: yourname
@@ -241,7 +241,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
