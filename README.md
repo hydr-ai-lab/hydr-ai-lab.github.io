@@ -1,1 +1,1 @@
-# mai-lab.github.io
+# mai-lab-tud.github.io
