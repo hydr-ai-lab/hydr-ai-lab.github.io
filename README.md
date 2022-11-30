@@ -1,1 +1,1 @@
-# hydr-ai-lab.github.io
+# mai-lab.github.io
