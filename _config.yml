@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: hydr-ai-lab
+title: MAI-L@b
 
 # Your name to show in the footer
-author: hydr-ai-lab
+author: MAI-L@b
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,7 +22,7 @@ author: hydr-ai-lab
 navbar-links:
   About Us: "aboutme"
   Projects:
-    - Nautilus: "https://github.com/hydr-ai-lab/nautilus"
+    - Nautilus: "https://github.com/mai-lab-tud/nautilus"
 
 ################
 # --- Logo --- #
@@ -49,7 +49,7 @@ round-avatar: false
 social-network-links:
   email: "hydro.ai.laboratory@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: hydr-ai-lab
+  github: mai-lab-tud
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -73,7 +73,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Homeage for hydr-ai-lab
+rss-description: Homeage for MAI-L@b
 
 ###########################
 # --- General options --- #
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "hydr-ai-lab.github.io"
+url-pretty: "mai-lab.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
